@@ -1,4 +1,4 @@
 samplegit
 =========
 
-My sandbox to do experiment with different Git workflows
+My personal sandbox to experiment with different Git workflows
